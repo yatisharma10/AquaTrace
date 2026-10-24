@@ -1,0 +1,6 @@
+{
+  "name": "AquaTrace - AI Leak Detection & Inspection Prioritization",
+  "description": "AI-assisted pipeline monitoring dashboard that detects water leaks, isolates sensor faults from demand surges, estimates water loss, and prioritizes inspection sections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
